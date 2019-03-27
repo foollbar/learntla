@@ -3,7 +3,7 @@ title = "Using the Toolbox"
 weight = 3
 +++
 
-Our goal with writing specifications is to look for errors in the specification. To do this, we first need to convert our PlusCal code into TLA+, and then tell a model checker what to look for. Both of these can be a little tricky. Fortunately, we have an IDE available called [TLA+ Toolbox](https://research.microsoft.com/en-us/um/people/lamport/tla/toolbox.html). We'll be using the following example as the introduction
+Our goal with writing specifications is to look for errors in the specification. To do this, we first need to convert our PlusCal code into TLA+, and then tell a model checker what to look for. Both of these can be a little tricky. Fortunately, we have an IDE available called [TLA+ Toolbox](https://research.microsoft.com/en-us/um/people/lamport/tla/toolbox.html). We'll be using the following example as the introduction.
 
 ``` tla
 ---- MODULE example ----
